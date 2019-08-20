@@ -1,6 +1,6 @@
 # main text of home
 name: Wooseok Song
-bio: A Man who travels the world eating noodles
+bio: Deep Reinforcement Learning and Game AI
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,24 +34,24 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: profile.php?id=100006507553132
+#twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: in/우석-송-39395a18b/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: sws503
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: wooseok503@gist.ac.kr
 
 authors:
     johndoe:
